@@ -22,6 +22,8 @@
 </p>
 
 The Nexus zkVM is a modular, extensible, open-source, and highly-parallelized zkVM, designed to run at *a trillion CPU cycles proved per second* given enough machine power.
+Cockkc
+
 
 ## Folding schemes
 
